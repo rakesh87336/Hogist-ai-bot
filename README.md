@@ -18,7 +18,7 @@ A Flask-based AI chatbot server powered by the FLAN-T5 Small model for text-to-t
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/rakesh87336/Hogist-ai-bot.git
    cd 
    ```
 
