@@ -1,4 +1,3 @@
-Here is a suitable README file for your Flask app using the FLAN-T5 model for humorous intent-based responses and knowledge Q&A about Hogist:
 
 ---
 
